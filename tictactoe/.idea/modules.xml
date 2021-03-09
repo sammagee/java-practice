@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tictactoe.iml" filepath="$PROJECT_DIR$/.idea/modules/tictactoe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/tictactoe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/tictactoe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/tictactoe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/tictactoe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/tictactoe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/tictactoe.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/tictactoe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/tictactoe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/tictactoe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/tictactoe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/tictactoe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/tictactoe.util.test.iml" />
+    </modules>
+  </component>
+</project>

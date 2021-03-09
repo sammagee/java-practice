@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatty.iml" filepath="$PROJECT_DIR$/.idea/modules/chatty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Desks/chatty.Problems-Desks.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Desks/chatty.Problems-Desks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Desks/chatty.Problems-Desks.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Desks/chatty.Problems-Desks.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Desks/chatty.Problems-Desks.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Desks/chatty.Problems-Desks.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference of times/chatty.Problems-Difference_of_times.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference of times/chatty.Problems-Difference_of_times.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference of times/chatty.Problems-Difference_of_times.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference of times/chatty.Problems-Difference_of_times.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference of times/chatty.Problems-Difference_of_times.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference of times/chatty.Problems-Difference_of_times.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First digit/chatty.Problems-First_digit.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First digit/chatty.Problems-First_digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First digit/chatty.Problems-First_digit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First digit/chatty.Problems-First_digit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First digit/chatty.Problems-First_digit.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First digit/chatty.Problems-First_digit.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/chatty.Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/chatty.Simple_Chatty_Bot-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/chatty.Simple_Chatty_Bot-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/chatty.Simple_Chatty_Bot-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/chatty.Simple_Chatty_Bot-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/chatty.Simple_Chatty_Bot-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/chatty.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/chatty.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/chatty.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/chatty.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/chatty.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/chatty.util.test.iml" />
+    </modules>
+  </component>
+</project>
